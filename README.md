@@ -12,7 +12,7 @@ A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user int
 * [Download Project (.cct | 4.8 MB)](https://bellmcp.github.io/work/Calculator.cct)
 * [Download LogicWorks™ 5.0 (.zip | 11.3 MB)](https://bellmcp.github.io/work/LogicWorks5.zip)
 
-# How-To :
+# Install Guide :
 
 * Download and Install LogicWorks™ 5.0
 * Download .cct project file and open with LogicWorks
