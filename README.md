@@ -23,3 +23,5 @@ A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user int
 
 * Extends ability to display and calculate more digits of number.
 * Add an ability to have the square root and percentage function.
+
+Copyright © 2018 Wutipat Khamnuansin, All rights reserved.
