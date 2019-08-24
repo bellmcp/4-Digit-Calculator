@@ -15,7 +15,7 @@ A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user int
 # How-To :
 
 * Download and Install LogicWorks™ 5.0
-* Download .cct project file and Open Project with LogicWorks
+* Download .cct project file and open with LogicWorks
 
 # What I Learned :
 
