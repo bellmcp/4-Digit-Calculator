@@ -16,7 +16,7 @@ A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user int
 
 * Developed a 4-Digit calculator within the circuit logic board simulator software (LogicWorks™)
 * Developed a user interface within the circuit logic board.
-* Implemented functinality to the calculator: `ADDITION`, `SUBTRACTION`, `MULTIPLY`, 'DIVISION' & `INVERT`.
+* Implemented functinality to the calculator: `ADDITION`, `SUBTRACTION`, `MULTIPLY`, `DIVISION` & `INVERT`.
 * Implemented a 7-segment display using logic gates.
 
 # Future ideas include :
