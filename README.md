@@ -12,6 +12,11 @@ A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user int
 * [Download Project (.cct | 4.8 MB)](https://bellmcp.github.io/work/Calculator.cct)
 * [Download LogicWorks™ 5.0 (.zip | 11.3 MB)](https://bellmcp.github.io/work/LogicWorks5.zip)
 
+# How-To :
+
+* Download and Install LogicWorks™ 5.0
+* Download .cct project file and Open Project with LogicWorks
+
 # What I Learned :
 
 * Developed a 4-Digit calculator within the circuit logic board simulator software (LogicWorks™)
