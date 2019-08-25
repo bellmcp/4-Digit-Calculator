@@ -1,7 +1,7 @@
 # 4-Digit Calculator
 A 4-Digit Calculator developed using LogicWorks™ with a user-friendly user interface. Fully packed with professional calculator functions. Assembled from a complex arithmetic logic circuits. 
 
-
+<br>
 <p align="center">
   <img src="https://bellmcp.github.io/img/Projects_Calculator.jpg" />
 </p>
